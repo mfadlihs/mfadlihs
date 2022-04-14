@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![mfadlihs' GitHub stats](https://github-readme-stats.vercel.app/api?username=mfadlihs&show_icons=true&theme=radical)
 <!--
 **mfadlihs/mfadlihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
