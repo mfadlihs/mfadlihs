@@ -8,7 +8,7 @@ I am a first year student majoring in informatics engineering at Brawijaya Unive
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [winnerfadli999@gmail.com](mailto:winnerfadli999@gmail.com)
-* 🚀  I'm currently working on [CIMSA](http://cimsauwks.com)
+* 🚀  I'm currently working on [CIMSA UWKS Project](http://cimsauwks.com)
 * 🧠  I'm learning Frontend with NEXT and Backend with Express JS
 * 🤝  I'm open to collaborating on any project
 
