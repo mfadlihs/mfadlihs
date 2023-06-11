@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a: Informatics Engineering student in the University of Brawijaya
-- 🌱 I’m currently learning: Flutter, TypeScript, Python
+- 🌱 I’m currently learning: Flutter, React, Node.js
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mfadlihs)
 - 😄 Pronouns: He/Him
 
